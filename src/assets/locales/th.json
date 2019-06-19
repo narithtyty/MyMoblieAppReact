@@ -1,0 +1,150 @@
+{
+  "home": {
+    "header": "หน้าหลัก",
+    "menu": {
+      "new_request": "สแกนส่งตัวอย่าง",
+      "machine": "รายการเครื่องจักร",
+      "request": "ประวัติใบคำร้อง",
+      "scan": "ข้อมูลคิวอาร์โค้ด",
+      "manual_request": "Manual Key",
+      "user_accout": "จัดการข้อมูลผู้ใช้งาน",
+      "other": "อื่นๆ"
+    }
+  },
+  "language": {
+    "header": "ตั้งค่าภาษา"
+  },
+  "instruction": {
+    "header": "คำแนะนำ"
+  },
+  "terms": {
+    "header": "ข้อกำหนดและเงื่อนไข"
+  },
+  "scan": {
+    "header": "สแกนคิวอาร์โค้ดที่นี่",
+    "sample": "ตัวอย่าง",
+    "info": "สแกนคิวอาร์โค้ด",
+    "info_sample": "สแกนคิวอาร์โค้ดของตัวอย่าง",
+    "info_machine": "สแกนคิวอาร์โค้ดของเครื่องจักร"
+  },
+  "machine": {
+    "list": {
+      "header": "รายการเครื่องจักร"
+    },
+    "detail": {
+      "header": "เครื่องจักร"
+    }
+  },
+  "request": {
+    "list": {
+      "header": "ประวัติใบคำร้อง"
+    },
+    "detail": {
+      "header": "ใบคำร้อง",
+      "information": "ข้อมูลใบคำร้อง",
+      "sample_list": "รายการตัวอย่าง",
+      "select_all": "เลือกทั้งหมด",
+      "view_pdf": "แสดงรายงาน",
+      "delete": "ลบ"
+    },
+    "select": {
+      "header": "ประเภทรายงาน"
+    },
+    "report": {
+      "header": "แสดงผล"
+    }
+  },
+  "button": {
+    "next": "ถัดไป",
+    "send_mail": "ส่งอีเมล",
+    "back_home": "กลับสู่หน้าหลัก",
+    "send_request": "ส่งใบคำร้อง",
+    "send_massage": "ส่งข้อความ",
+    "reset_password": "เปลี่ยนรหัสผ่าน",
+    "new_user": "ร้องขอผู้ใช้งานใหม่"
+  },
+  "setting": {
+    "header": "ตั้งค่า",
+    "language": "ภาษา",
+    "change_pass": "เปลี่ยนรหัสผ่าน",
+    "user": "เพิ่มผู้ใช้งาน"
+  },
+  "create": {
+    "confirm_machine": {
+      "header": "เครื่องจักร"
+    },
+    "confirm_sample":{
+      "header": "ตัวอย่าง",
+      "sampling_date": "วันที่เก็บตัวอย่าง",
+      "age_of_oil": "อายุการใช้งาน",
+      "n_a": "ไม่ระบุ",
+      "unit": "หน่วย"
+    },
+    "has_sample":{
+      "header": "จับคู่",
+      "add_more": "เพิ่มรายการตัวอย่าง",
+      "submit": "ส่งใบคำร้อง"
+    },
+    "pre_submit": {
+      "header": "ตรวจสอบรายการ"
+    },
+    "submit": {
+      "header": "เสร็จสิ้น"
+    },
+    "manual": {
+      "header": "เพิ่มใบคำร้อง"
+    }
+  },
+  "contact":{
+    "header": "ติดต่อ",
+    "suggestion": "ข้อเสนอแนะ",
+    "contact": "ติดต่อ"
+  },
+  "menu": {
+    "home": "หน้าหลัก",
+    "setting": "ตั้งค่า",
+    "contact": "ติดต่อสอบถาม",
+    "instruction": "แนะนำการใช้งาน",
+    "term": "ข้อกำหนดและเงื่อนไข",
+    "logout": "ออกจากระบบ"
+  },
+  "select": {
+    "day": "วัน",
+    "week": "สัปดาห์",
+    "hour": "ชั่วโมง",
+    "month": "เดือน",
+    "year": "ปี",
+    "kilometer": "กิโลเมตร",
+    "select": "--- กรุณาเลือก ---"
+  },
+  "alert": {
+    "sync": {
+      "success": {
+        "body": "ส่งใบคำร้องสำเร็จ.",
+        "header": "Synchronize status"
+      },
+      "error": {
+        "body": "มีข้อผิดพลาด, โปรดลองอีกครั้ง",
+        "header": "Synchronize status"
+      }
+    },
+    "network": {
+      "connected": {
+        "body": "การเชื่อมต่อมีข้อผิดพลาด, โปรดลองอีกครั้ง",
+        "header": "ขาดการเชื่อมต่อ"
+      },
+      "system_error": {
+        "body": "การเชื่อมต่อมีข้อผิดพลาด, โปรดลองอีกครั้ง",
+        "header": "ผิดพลาด"
+      },
+      "system_success": {
+        "body": "ทำรายการสำเร็จ",
+        "header": "สำเร็จ"
+      }
+    },
+    "delete": {
+      "header": "ยืนยันการลบข้อมูล",
+      "body": "คุณต้องการลบข้อมูลหรือไม่"
+    }
+  }
+}

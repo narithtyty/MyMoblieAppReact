@@ -1,0 +1,150 @@
+{
+  "home": {
+    "header": "HOME",
+    "menu": {
+      "new_request": "Sample QR Scan",
+      "machine": "Machine Lists",
+      "request": "Request Lists",
+      "scan": "QR Code Info.",
+      "manual_request": "Manual Key",
+      "user_accout": "User Account",
+      "other": "Other"
+    }
+  },
+  "language": {
+    "header": "LANGUAGES"
+  },
+  "instruction": {
+    "header": "INSTRUCTION"
+  },
+  "terms": {
+    "header": "TERMS & CONDITIONS"
+  },
+  "scan": {
+    "header": "SCAN QR CODE",
+    "sample": "SAMPLE",
+    "info": "Scan QR Code",
+    "info_sample": "Scan Sample QR Code",
+    "info_machine": "Scan Machine QR Code"
+  },
+  "machine": {
+    "list": {
+      "header": "MACHINE LISTS"
+    },
+    "detail": {
+      "header": "MACHINE DETAIL"
+    }
+  },
+  "request": {
+    "list": {
+      "header": "REQUEST LISTS"
+    },
+    "detail": {
+      "header": "REQUEST",
+      "information": "Information",
+      "sample_list": "Sample lists",
+      "select_all": "SELECT ALL",
+      "view_pdf": "VIEW PDF",
+      "delete": "DELETE"
+    },
+    "select": {
+      "header": "SELECT TYPE"
+    },
+    "report": {
+      "header": "PREVIEW"
+    }
+  },
+  "button": {
+    "next": "NEXT",
+    "send_mail": "SEND TO E-MAIL",
+    "back_home": "BACT TO HOME",
+    "send_request": "SEND REQUEST",
+    "send_massage": "SEND MESSAGE",
+    "reset_password": "RESET PASSWORD",
+    "new_user": "REQUEST NEW USER"
+  },
+  "setting": {
+    "header": "SETTING",
+    "change_pass": "Change password",
+    "language": "Language",
+    "user": "Add user"
+  },
+  "create": {
+    "confirm_machine": {
+      "header": "MACHINE"
+    },
+    "confirm_sample": {
+      "header": "OIL SAMPLE",
+      "sampling_date": "Sampling Date",
+      "age_of_oil": "Age Of Oil",
+      "n_a": "N/A",
+      "unit": "Unit"
+    },
+    "has_sample": {
+      "header": "MATCHING",
+      "add_more": "ADD MORE SAMPLE",
+      "submit": "SUBMIT REQUEST"
+    },
+    "pre_submit": {
+      "header": "CONFIRM SAMPLE"
+    },
+    "submit": {
+      "header": "COMPLETE"
+    },
+    "manual": {
+      "header": "MANUAL REQUEST"
+    }
+  },
+  "contact": {
+    "header": "CONTACT US",
+    "suggestion": "Suggestion",
+    "contact": "Contact"
+  },
+  "menu": {
+    "home": "HOME",
+    "setting": "SETTING",
+    "contact": "CONTACT US",
+    "instruction": "INSTRUCTION",
+    "term": "TERM & CONDITIONS",
+    "logout": "LOG OUT"
+  },
+  "select": {
+    "day": "Day(s)",
+    "week": "Week(s)",
+    "hour": "Hr(s)",
+    "month": "Month(s)",
+    "year": "Yr(s)",
+    "kilometer": "Km(s)",
+    "select": "--- Select ---"
+  },
+  "alert": {
+    "sync": {
+      "success": {
+        "body": "Send request completed.",
+        "header": "Synchronize status"
+      },
+      "error": {
+        "body": "Send request failed, plaese try agian.",
+        "header": "Synchronize status"
+      }
+    },
+    "network": {
+      "connected": {
+        "body": "Network lost connection, plaese try agian.",
+        "header": "Network connection"
+      },
+      "system_error": {
+        "body": "Network lost connection, plaese try agian.",
+        "header": "Failed"
+      },
+      "system_success": {
+        "body": "Successful transaction.",
+        "header": "Success"
+      }
+    },
+    "delete": {
+      "header": "Are you sure ?",
+      "body": "You want to delete this item."
+    }
+  }
+}
